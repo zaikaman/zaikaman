@@ -10,9 +10,6 @@
 # 📊 GitHub Stats:
 [![zaikaman's GitHub stats](https://github-stats-extended.vercel.app/api?username=zaikaman)](https://github.com/stats-organization/github-stats-extended)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=zaikaman&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
