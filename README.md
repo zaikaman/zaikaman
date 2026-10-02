@@ -1,19 +1,42 @@
-# 💫 About Me:
-🎯 I’m currently working on: Building web applications with JavaScript, React, PHP, and Node.js, and exploring AI integration into real-world projects.<br><br>🤝 I’m looking to collaborate on: Open-source projects, especially in web development and AI tools.<br><br>💡 I’m looking for help with: Improving my skills in system design and scalable application development.<br><br>🌱 I’m currently learning: Next.js, TailwindCSS, and cloud deployment (Vercel, Render, AWS).<br><br>💬 Ask me about: Web development, AI tools, freelancing as a developer, or getting started with coding.<br><br>⚡ Fun fact: I can spend hours debugging a tiny error — only to realize it was a missing semicolon 😅.
+# hey, I'm Thịnh 👋
 
+> 9x hackathon winner. Turning caffeine and tight deadlines into shipped software. Still debugging reality.
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/dinfucthin) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dinfucthin) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:zaikaman123@gmail.com) 
+I build fast, full-stack web products and experiment with AI agents. If an idea sounds slightly insane and needs to be built before Sunday midnight, I'm probably into it.
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-# 📊 GitHub Stats:
-[![zaikaman's GitHub stats](https://github-stats-extended.vercel.app/api?username=zaikaman)](https://github.com/stats-organization/github-stats-extended)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+```bash
+$ cat reality.log
+[ERROR] Semicolon expected at reality:42
+[WARN]  Too many hackathon trophies detected
+[INFO]  Deploying to production anyway...
+```
 
 ---
-[![](https://visitcount.itsvg.in/api?id=zaikaman&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🏆 Proof of Work
+- **9x Hackathon Champion** — Survived 36-hour sprint marathons, built working MVPs from scratch, and pitched to judges without crashing on stage.
+- **Full-Stack & AI Builder** — Focusing on web systems with React, Next.js, Node.js, and practical AI tooling.
+- **Pragmatic Dev** — Good code is code that actually runs in production and solves real human headaches.
+
+---
+
+### 🛠 Tech & Weapons of Choice
+```
+Frontend  :: React · Next.js · TypeScript · Tailwind CSS
+Backend   :: Node.js · PHP · Supabase · Express
+Databases :: MongoDB · MySQL · PostgreSQL
+Deploy    :: Vercel · Cloudflare · Docker
+```
+
+---
+
+### 📡 Ping Me
+[![X / Twitter](https://img.shields.io/badge/X-black?style=flat-square&logo=x&logoColor=white)](https://x.com/your_x_handle)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://facebook.com/dinfucthin)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/dinfucthin)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:zaikaman123@gmail.com)
+
+---
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=zaikaman&show_icons=true&theme=tokyonight&hide_border=true" alt="zaikaman's stats" />
+</p>
