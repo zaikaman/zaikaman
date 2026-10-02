@@ -1,42 +1,31 @@
-# hey, I'm Thịnh 👋
+# Đinh Phúc Thịnh
 
-> 9x hackathon winner. Turning caffeine and tight deadlines into shipped software. Still debugging reality.
+9x hackathon winner. Still debugging reality.
 
-I build fast, full-stack web products and experiment with AI agents. If an idea sounds slightly insane and needs to be built before Sunday midnight, I'm probably into it.
-
-```bash
-$ cat reality.log
-[ERROR] Semicolon expected at reality:42
-[WARN]  Too many hackathon trophies detected
-[INFO]  Deploying to production anyway...
-```
+Full-stack engineer building web applications and applied AI systems. Most of my wins come from 2-week to month-long hackathons, where architectural endurance, product polish, and shipping software that survives past demo day actually matter.
 
 ---
 
-### 🏆 Proof of Work
-- **9x Hackathon Champion** — Survived 36-hour sprint marathons, built working MVPs from scratch, and pitched to judges without crashing on stage.
-- **Full-Stack & AI Builder** — Focusing on web systems with React, Next.js, Node.js, and practical AI tooling.
-- **Pragmatic Dev** — Good code is code that actually runs in production and solves real human headaches.
+### Focus & Proof of Work
+
+- **9x Hackathon Champion:** Consistent track record in multi-week product sprints. Taking messy specs, designing clean schemas, and delivering functional, production-ready software under strict deadlines.
+- **Full-Stack Development:** Pragmatic web systems built with React, Next.js, Node.js, and relational databases. Strong emphasis on maintainability, performance, and clean interfaces.
+- **Applied AI:** Focused on practical tooling, automation, and real-world workflows rather than thin wrapper hype.
 
 ---
 
-### 🛠 Tech & Weapons of Choice
-```
-Frontend  :: React · Next.js · TypeScript · Tailwind CSS
-Backend   :: Node.js · PHP · Supabase · Express
-Databases :: MongoDB · MySQL · PostgreSQL
-Deploy    :: Vercel · Cloudflare · Docker
-```
+### Stack
+
+- **Core:** TypeScript, JavaScript, PHP, SQL
+- **Frontend:** React, Next.js, Tailwind CSS
+- **Backend & Data:** Node.js, Express, Supabase, PostgreSQL, MySQL, MongoDB
+- **DevOps & Tooling:** Docker, Git, Vercel, Linux
 
 ---
 
-### 📡 Ping Me
-[![X / Twitter](https://img.shields.io/badge/X-black?style=flat-square&logo=x&logoColor=white)](https://x.com/your_x_handle)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://facebook.com/dinfucthin)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/dinfucthin)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:zaikaman123@gmail.com)
+### Connect
 
----
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zaikaman&show_icons=true&theme=tokyonight&hide_border=true" alt="zaikaman's stats" />
-</p>
+- [X / Twitter](https://x.com/your_x_handle)
+- [Facebook](https://facebook.com/dinfucthin)
+- [Instagram](https://instagram.com/dinfucthin)
+- [Email](mailto:zaikaman123@gmail.com)
